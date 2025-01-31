@@ -61,11 +61,23 @@
 # Ответ 2
 <!-- TABLE_GENERATE_START -->
 
-| First Header  | Second Header | First Header  | Second Header |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Решение  | Кластеризация | Хранение на диске  | Высокая скорость | Различные форматы | Права доступа  | Простота эксплуатации |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+<!-- TABLE_GENERATE_END -->
 
+<!-- TABLE_GENERATE_START -->
+Решение	Кластеризация	Хранение на диске	Высокая скорость	Различные форматы	Права доступа	Простота эксплуатации
+RabbitMQ	Да	Да	Высокая	Да	Да	Средняя
+Kafka	Да	Да	Очень высокая	Да	Да	Сложная
+ActiveMQ	Да	Да	Высокая	Да	Да	Средняя
+ZeroMQ	Нет	Нет	Очень высокая	Да	Нет	Простая
+NSQ	Да	Да	Высокая	Да	Да	Простая
 
 <!-- TABLE_GENERATE_END -->
+
 
